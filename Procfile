@@ -1,1 +1,1 @@
-web: gunicorn heroku-housing-price-demo-app:app
+web: gunicorn app:app
